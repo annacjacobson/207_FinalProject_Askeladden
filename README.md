@@ -38,9 +38,14 @@ Note that ira_tweets_english.csv (the troll dataset, used in the Initial Dataset
 ## References
 
 https://fivethirtyeight.com/features/why-were-sharing-3-million-russian-troll-tweets/
+
 https://fivethirtyeight.com/features/what-you-found-in-3-million-russian-troll-tweets/
+
 https://www.nytimes.com/2018/02/18/world/europe/russia-troll-factory.html
+
 https://www.bloomberg.com/features/2016-how-to-hack-an-election/?fbclid=IwAR1tHKfzgeme-K_ZH8tdpBeAhLB3ZFNrlj7bXCQD70sthqbjFalKmNCappA
+
 https://www.hsdl.org/c/tactics-and-tropes-of-the-internet-research-agency/
+
 https://disinformationreport.blob.core.windows.net/disinformation-report/NewKnowledge-Disinformation-Report-Slides.pdf
 
