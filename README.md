@@ -12,12 +12,20 @@ More than 20% of the English-language troll tweets came from accounts with user 
 
 ## Repo Contents
 
-1. W207 Final Project - The Askeladden Algorithm.ipynb - This is the main notebook for the project.
-2. W207 Final Project - Initial Dataset Creation.ipynb - This notebook includes the processing of the two original dataset (troll tweets and real news tweets) into the combined dataset used in the main notebook.
-3. W207 Final Project - Production Pipeline.ipynb - This notebook includes the production pipeline for parameter optimization using GridSearchCV.
-4. Data
+### 1. W207 Final Project - The Askeladden Algorithm.ipynb
+This is the main notebook for the project.
+
+### 2. W207 Final Project - Initial Dataset Creation.ipynb
+This notebook includes the processing of the two original dataset (troll tweets and real news tweets) into the combined dataset used in the main notebook.
+
+### 3. W207 Final Project - Production Pipeline.ipynb
+This notebook includes the production pipeline for parameter optimization using GridSearchCV.
+
+### 4. W207 Final Project - Presentation.pdf
+Slide deck from in-class presentation of project.
+
+### 5. Data
     a. ira_tweets_english.csv - The troll dataset, used in the Initial Dataset Creation notebook.    
     b. real_news_wfox.csv - The real news dataset, used in the Initial Dataset Creation notebook.  
     c. news_tweets_big.csv - The combined real/troll news dataset, used in the main notebook.
-
-Note that the original troll tweet dataset published by Twitter is not included in this repo due to size limitations.
+    Note that the original troll tweet dataset published by Twitter is not included in this repo due to size limitations.
