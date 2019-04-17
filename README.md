@@ -30,7 +30,7 @@ This notebook includes the production pipeline for parameter optimization using 
 Slide deck from in-class presentation of project.
 
 ### 6. Data
-a. real_news_wfox.csv - The real news dataset, used in the Initial Dataset Creation notebook.  
+a. real_news_wfox.csv - The real news dataset, used in the Initial Dataset Creation notebook. Utilizes Hardvard Dataverse's News Outlet Tweet Ids dataset (<https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2FIFLH>).  
 b. news_tweets_big.csv - The combined real/troll news dataset, used in the main notebook.
 
 Note that ira_tweets_english.csv (the troll dataset, used in the Initial Dataset Creation notebook), as well as the original troll tweet dataset published by Twitter (https://about.twitter.com/en_us/values/elections-integrity.html#data) from which it was created, are not included in this repo due to GitHub's file size limitations.
