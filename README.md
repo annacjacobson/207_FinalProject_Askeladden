@@ -34,3 +34,13 @@ a. real_news_wfox.csv - The real news dataset, used in the Initial Dataset Creat
 b. news_tweets_big.csv - The combined real/troll news dataset, used in the main notebook.
 
 Note that ira_tweets_english.csv (the troll dataset, used in the Initial Dataset Creation notebook), as well as the original troll tweet dataset published by Twitter (https://about.twitter.com/en_us/values/elections-integrity.html#data) from which it was created, are not included in this repo due to GitHub's file size limitations.
+
+## References
+
+https://fivethirtyeight.com/features/why-were-sharing-3-million-russian-troll-tweets/
+https://fivethirtyeight.com/features/what-you-found-in-3-million-russian-troll-tweets/
+https://www.nytimes.com/2018/02/18/world/europe/russia-troll-factory.html
+https://www.bloomberg.com/features/2016-how-to-hack-an-election/?fbclid=IwAR1tHKfzgeme-K_ZH8tdpBeAhLB3ZFNrlj7bXCQD70sthqbjFalKmNCappA
+https://www.hsdl.org/c/tactics-and-tropes-of-the-internet-research-agency/
+https://disinformationreport.blob.core.windows.net/disinformation-report/NewKnowledge-Disinformation-Report-Slides.pdf
+
