@@ -10,7 +10,9 @@ In February 2019, as part of special counsel Robert Mueller’s investigation of
 
 Twitter has identified and suspended thousands of these malicious accounts, deleting millions of the trolls’ tweets from public view on the platform. While other news outlets have published samples, it has been difficult to understand the full scale and scope of the IRA’s efforts, as well as the details of its strategy and tactics. According to Alina Polyakova, a foreign policy fellow at the Brookings Institution, “Wiping the content doesn’t wipe out the damage caused, and it prevents us from learning about how to be better prepared for such attacks in the future.” To address this problem, and “in line with our principles of transparency and to improve public understanding of alleged foreign influence campaigns,” Twitter has now made publicly available archives of Tweets and media that it believes resulted from potentially state-backed information operations.
 
-More than 20% of the English-language troll tweets came from accounts with user names that mimicked those of legitimate news outlets. The purpose of this project is to try to predict "fake news" troll tweets.
+According to a December 2018 United States Senate Select Committee on Intelligence briefing, there were approximately 109 Twitter accounts masquerading as news organizations, including U.S. local news organizations. The 44 U.S.-related accounts had amassed 660,335 followers between them, with an average of 15,000 followers. Many of these accounts behaved similarly, posting links to articles and local content dozens of times per day.
+
+The purpose of this project is to develop a machine learning algorithm to predict "fake news" troll tweets. Our algorithm is named after Askeladden, a boy in Norwegian folklore who outwits trolls.
 
 ## Repo Contents
 
