@@ -29,7 +29,7 @@ This notebook includes the processing of the two original datasets (troll tweets
 This notebook includes the pipeline for parameter optimization using GridSearchCV.
 
 ### 5. W207 Final Project - Presentation.pdf
-Slide deck from in-class presentation of project.
+Slide deck from April 17, 2019 in-class presentation of project. Note that the notebooks above may include slightly different information than reported in this presentation due to further development subsequent to the date of this presentation.
 
 ### 6. Data
 a. real_news_wfox.csv - The real news dataset, used in the Initial Dataset Creation notebook.  
