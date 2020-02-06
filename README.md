@@ -20,7 +20,7 @@ The purpose of this project is to develop a machine learning algorithm to predic
 This is the main notebook for the project.
 
 ### 2. W207 Final Project - Real News Scrape.ipynb
-This notebook includes the script for scraping Twitter for the real news tweets. Utilizes Hardvard Dataverse's News Outlet Tweet Ids dataset (<https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2FIFLH>) for Tweet IDs. 
+This notebook includes the script for scraping Twitter for the real news tweets. Utilizes Harvard Dataverse's News Outlet Tweet Ids dataset (<https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2FIFLH>) for Tweet IDs. 
 
 ### 3. W207 Final Project - Initial Dataset Creation.ipynb
 This notebook includes the processing of the two original datasets (troll tweets and real news tweets) into the combined dataset used in the main notebook.
