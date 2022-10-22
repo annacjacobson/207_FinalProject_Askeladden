@@ -14,6 +14,8 @@ According to a December 2018 United States Senate Select Committee on Intelligen
 
 The purpose of this project is to develop a machine learning algorithm to predict "fake news" troll tweets. Our algorithm is named after Askeladden, a boy in Norwegian folklore who outwits trolls.
 
+Read more about this project design and findings on [Towards Data Science](https://towardsdatascience.com/the-askeladden-algorithm-10859c349fc9).
+
 ## Repo Contents
 
 ### 1. W207 Final Project - The Askeladden Algorithm.ipynb
